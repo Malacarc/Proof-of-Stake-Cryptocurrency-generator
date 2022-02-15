@@ -1,4 +1,4 @@
-# Proof-of-Stake-Cryptocurrency-generator
+# Faszcoin
 
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](/LICENSE)
 [![Telegram](https://img.shields.io/badge/chat-Telegram-blue.svg)](https://t.me/coin_generator)
